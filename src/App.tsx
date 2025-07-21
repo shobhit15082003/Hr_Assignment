@@ -1,4 +1,3 @@
-import React from 'react';
 import { JsonSchemaBuilder } from './components/JsonSchemaBuilder';
 import { Toaster } from '@/components/ui/toaster';
 import './App.css';
