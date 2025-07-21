@@ -104,7 +104,7 @@ export const FieldRow: React.FC<FieldRowProps> = ({
                 variant="ghost"
                 size="sm"
                 onClick={toggleExpanded}
-                className="p-1 h-8 w-8 hover:bg-slate-200"
+                className="p-1 h-8 w-8 bg-white border border-blue-500 hover:bg-slate-300"
               >
                 {isExpanded ? 
                   <ChevronDown className="w-4 h-4" /> : 
